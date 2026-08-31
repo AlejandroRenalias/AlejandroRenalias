@@ -1,8 +1,5 @@
 <h1 align="center">Alejandro Renalias</h1>
 
-<p align="center">
-  <strong>AI Systems · Software Engineering · Automation</strong>
-</p>
 
 I build software around **AI agents, automation, and reliable systems**.
 
