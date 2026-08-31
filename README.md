@@ -1,8 +1,6 @@
 <h1 align="center">Alejandro Renalias</h1>
 
 
-I build software around **AI agents, automation, and reliable systems**.
-
 ### Currently building
 
 - **AHMA AI** — local-first digital medicine cabinet exploring safe AI-assisted software *(private · in development)*
