@@ -10,11 +10,3 @@
 ### Other projects
 
 - **[autoflows](https://github.com/AlejandroRenalias/autoflows)** — automation workflows with n8n, APIs, and AI
-
-### Currently exploring
-
-AI agents · multi-agent systems · automation · developer tooling
-
-### Stack
-
-Python · TypeScript · React · GitHub Actions · n8n
