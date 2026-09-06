@@ -1,8 +1,8 @@
 ### Currently building
 
-- **AHMA AI** — local-first digital medicine cabinet exploring safe AI-assisted software *(private · in development)*
-- **DropScope** — multi-agent dropshipping research lab and orchestration engine *(private · in development)*
-- **[Formula Pit Wall](https://github.com/AlejandroRenalias/Formula)** — multi-agent Formula 1 strategy system *(public, under development)*
+- **AHMA AI** — local-first digital medicine cabinet exploring safe AI-assisted software *(private, in development)*
+- **DropScope** — multi-agent dropshipping research lab and orchestration engine *(private, in development)*
+- **[Formula Pit Wall](https://github.com/AlejandroRenalias/Formula)** — multi-agent Formula 1 strategy system *(public, in development)*
 
 ### Other projects
 
