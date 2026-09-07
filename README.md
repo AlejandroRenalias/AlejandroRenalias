@@ -6,5 +6,5 @@
 
 ### Other projects
 
-- **[autoflows](https://github.com/AlejandroRenalias/autoflows)** - automation workflows with n8n, APIs, and AI
+- **[autoflows](https://github.com/AlejandroRenalias/autoflows)** - fetches Finland’s next-day electricity prices and delivers a Telegram summary automatically. Automation workflows with n8n, APIs, and AI
 - **[Lando-codex-pet](https://github.com/AlejandroRenalias/lando-codex-pet)** - My pet (Lando) as a codex pet
