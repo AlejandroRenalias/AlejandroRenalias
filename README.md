@@ -6,5 +6,6 @@
 
 ### Other projects
 
+- **[minivec](https://github.com/AlejandroRenalias/minivec)** - a from-scratch miniature vector database and RAG pipeline, built to learn how semantic search and retrieval work under the hood.
 - **[autoflows](https://github.com/AlejandroRenalias/autoflows)** - fetches Finland’s next-day electricity prices and delivers a Telegram summary automatically.
 - **[Lando-codex-pet](https://github.com/AlejandroRenalias/lando-codex-pet)** - My pet (Lando) as a codex pet
