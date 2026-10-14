@@ -1,7 +1,7 @@
 ### Currently building
 
 - **AHMA AI** - local-first digital medicine cabinet exploring safe AI-assisted software *(private, in development)*
-- **DropScope** - replay and audit AI agent runs, locally. Import a trace, replay any step, see token use *(private, in development)*
+- **DropScope** - replay and audit AI agent runs. Import a trace, replay any step, see token use *(private, in development)*
 - **[Formula Pit Wall](https://github.com/AlejandroRenalias/Formula)** - multi-agent Formula 1 strategy system *(public, in development)*
 
 ### Other projects
