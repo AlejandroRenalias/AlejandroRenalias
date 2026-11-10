@@ -1,1 +1,1 @@
-<img src="ascii-profile-v11.svg" alt="ASCII portrait" width="100%" />
+<img src="ascii-profile-v12.svg" alt="ASCII portrait" width="100%" />
